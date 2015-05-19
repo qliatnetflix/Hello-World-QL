@@ -1,3 +1,6 @@
 hello
 carey deeter
 goodbye
+
+def main():
+  print "hello world"
